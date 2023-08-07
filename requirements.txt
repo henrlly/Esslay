@@ -1,0 +1,7 @@
+gradio
+numpy
+openai
+pydantic
+bardapi==0.1.23a
+urllib3
+python-dotenv
